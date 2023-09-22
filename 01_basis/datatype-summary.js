@@ -18,3 +18,6 @@ let myobj={
 const myFunction=function(){
     console.log("hello")
 }
+
+// stack memory is for primitive data types..
+// Heap memory is for non-primitive data types...
